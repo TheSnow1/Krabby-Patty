@@ -1,0 +1,33 @@
+body{
+	font-family: Arial;
+}
+ul, ol{
+	font-family: Courier New;
+	background-color: #f0f9db;
+}
+.end{
+	text-align: center;
+	background-color: pink;
+	font-style: italic;
+}
+.yellow{
+	background-color: yellow;
+	font-weight: 700;
+}
+.under{
+	text-decoration: line-through;
+}
+.bold{
+	font-weight: 700;
+}
+header{
+	text-align: center;
+}
+.site-header h1{
+	font-weight: 700;
+	text-decoration: underline;
+}
+.site-header h2{
+	font-style: italic;
+	background-color: pink;
+}
